@@ -28,6 +28,12 @@
 npm install @turf/turf
 ```
 
+### Via CDN
+
+```js
+<script src="https://cdn.jsdelivr.net/npm/turf@3/turf.min.js"></script>
+```
+
 ### In browser
 
 Download the [minified file](https://npmcdn.com/@turf/turf/turf.min.js), and include it in a script tag. This will expose a global variable named `turf`.
